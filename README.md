@@ -1,5 +1,5 @@
 ### Hello, I'm Anton Kantartzhiev,
-[![AntonKantardzhiev GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonKantardzhiev&theme=algolia&show_icons=true)]
+![AntonKantardzhiev GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonKantardzhiev&theme=algolia&show_icons=true)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -24,4 +24,4 @@
   <img align="left" alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
   </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonKantardzhiev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonKantardzhiev&layout=compact&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
