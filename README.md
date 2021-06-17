@@ -24,6 +24,7 @@
   <a href="https://www.linkedin.com/in/anton-kantardjiev-31115732/">
   <img align="left" alt="LinkedIn" width="35px" src="img/linked.png" />
   </a>
+  </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonKantardzhiev&layout=compact&theme=algolia))](https://github.com/anuraghazra/github-readme-stats)
 
