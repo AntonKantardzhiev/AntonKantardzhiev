@@ -1,4 +1,5 @@
 ### Hello, I'm Anton Kantartzhiev,
+
 ![AntonKantardzhiev GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonKantardzhiev&theme=algolia&show_icons=true)
 <!--
 - 🔭 I’m currently working on ...
@@ -10,18 +11,20 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently **looking for a job opportunities as developer**
+
+- 🔭 I’m currently **looking for job opportunity as Web Developer**
 - 🌱 I’m currently:
-  -finishing the Web Development bootcamp at BeCode - Antwerp.
-  -finishing a Google IT Support Professional Certificate.
+  -finishing the Web Development bootcamp at BeCode - Antwerp. -finishing a Google IT Support Professional Certificate.
   -learning Java.
 - 💬 Ask me about OOP,TDD, PHP...
-- 📫 How to reach me:
+- 📫 How to reach me:</br>
   <a target="_blank" href="mailto:kantardjiev88@gmail.com">
-  <img align="left" alt="Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="35px" src="img/gmail.png" />
   </a>
   <a href="https://www.linkedin.com/in/anton-kantardjiev-31115732/">
-  <img align="left" alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="35px" src="img/linkedin.png" />
   </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonKantardzhiev&layout=compact&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonKantardzhiev&layout=compact&theme=algolia))](https://github.com/anuraghazra/github-readme-stats)
+<a href="img/banner.png">
+<img align="left" alt="LinkedIn" width="35px" src="img/linkedin.png" />
