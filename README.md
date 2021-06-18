@@ -29,7 +29,7 @@
   </a>
   <br/>
 
-### <br/>
+### My languages<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonKantardzhiev&layout=compact&theme=algolia))
 
