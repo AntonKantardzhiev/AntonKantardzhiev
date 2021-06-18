@@ -20,13 +20,15 @@
   <li>learning Java.</li>
   </ul>
 - 📫 How to reach me?</br>
-<a target="_blank" href="mailto:kantardjiev88@gmail.com">
-<img align="left" alt="Gmail" width="35px" src="img/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/anton-kantardjiev-31115732/">
-<img align="left" alt="LinkedIn" width="35px" src="img/linkedin.png" />
-</a>
-<br/>
-###Tools
+  <a target="_blank" href="mailto:kantardjiev88@gmail.com">
+  <img align="left" alt="Gmail" width="35px" src="img/gmail.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/anton-kantardjiev-31115732/">
+  <img align="left" alt="LinkedIn" width="35px" src="img/linkedin.png" />
+  </a>
+  <br/>
+
+### Tools <br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonKantardzhiev&layout=compact&theme=algolia))
 
