@@ -14,19 +14,20 @@
 
 - 🔭 I’m currently **looking for job opportunity as Web Developer**
 - 🌱 I’m currently:
-  -finishing the Web Development bootcamp at BeCode - Antwerp. -finishing a Google IT Support Professional Certificate.
-  -learning Java.
-  </br>
-
-### 📫 How to reach me:</br>
-
+  <ul>
+  <li>-finishing the Web Development bootcamp at BeCode - Antwerp.</li>
+  <li>-finishing a Google IT Support Professional Certificate.</li>
+  <li>-learning Java.</li>
+  </ul>
+### 📫 How to reach me?</br>
+You can always contact me via the mail or LinkedIn:
 <a target="_blank" href="mailto:kantardjiev88@gmail.com">
 <img align="left" alt="Gmail" width="35px" src="img/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/anton-kantardjiev-31115732/">
 <img align="left" alt="LinkedIn" width="35px" src="img/linkedin.png" />
 </a>
+<br/>
 
-### Tools:</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonKantardzhiev&layout=compact&theme=algolia))
 
