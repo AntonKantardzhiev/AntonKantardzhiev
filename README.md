@@ -16,10 +16,11 @@
 - 🌱 I’m currently:
   <ul>
   <li>finishing the Web Development bootcamp at BeCode - Antwerp.</li>
-  <li>finishing a Google IT Support Professional Certificate.</li>
+  <li>finishing a Google IT Support Professional Course.</li>
   <li>learning Java.</li>
   </ul>
 - 📫 How to reach me?</br>
+  Contact me via:</br>
   <a target="_blank" href="mailto:kantardjiev88@gmail.com">
   <img align="left" alt="Gmail" width="35px" src="img/gmail.png" />
   </a>
@@ -28,7 +29,7 @@
   </a>
   <br/>
 
-### Tools <br/>
+### Languages <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonKantardzhiev&layout=compact&theme=algolia))
 
