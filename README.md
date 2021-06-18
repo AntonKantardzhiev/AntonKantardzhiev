@@ -20,7 +20,7 @@
   <li>learning Java.</li>
   </ul>
 - 📫 How to reach me?</br>
-  Reach me by email or on LinkedIn:</br>
+  Reach me by email or via LinkedIn:</br>
     <a target="_blank" href="mailto:kantardjiev88@gmail.com">
     <img align="left" alt="Gmail" width="35px" src="img/gmail.png" />
     </a>
@@ -29,7 +29,7 @@
   </a>
   <br/>
 
-### Languages <br/>
+### <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonKantardzhiev&layout=compact&theme=algolia))
 
