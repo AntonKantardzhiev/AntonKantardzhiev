@@ -22,10 +22,10 @@
 - 📫 How to reach me?</br>
  You can always contact me via the mail or LinkedIn:<br/>
 <a target="_blank" href="mailto:kantardjiev88@gmail.com">
-<img align="center" alt="Gmail" width="35px" src="img/gmail.png" />
+<img align="left" alt="Gmail" width="35px" src="img/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/anton-kantardjiev-31115732/">
-<img align="center" alt="LinkedIn" width="35px" src="img/linkedin.png" />
+<img align="left" alt="LinkedIn" width="35px" src="img/linkedin.png" />
 </a>
 <br/>
 
