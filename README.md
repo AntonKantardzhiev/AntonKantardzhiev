@@ -16,15 +16,18 @@
 - 🌱 I’m currently:
   -finishing the Web Development bootcamp at BeCode - Antwerp. -finishing a Google IT Support Professional Certificate.
   -learning Java.
-- 💬 Ask me about OOP,TDD, PHP...
-- 📫 How to reach me:</br>
-  <a target="_blank" href="mailto:kantardjiev88@gmail.com">
-  <img align="left" alt="Gmail" width="35px" src="img/gmail.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/anton-kantardjiev-31115732/">
-  <img align="left" alt="LinkedIn" width="35px" src="img/linked.png" />
-  </a>
   </br>
-  </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonKantardzhiev&layout=compact&theme=algolia))](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 How to reach me:</br>
+
+You can reach me on : </br>
+<a target="_blank" href="mailto:kantardjiev88@gmail.com">
+<img align="left" alt="Gmail" width="35px" src="img/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/anton-kantardjiev-31115732/">
+<img align="left" alt="LinkedIn" width="35px" src="img/linkedin.png" />
+</a>
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonKantardzhiev&layout=compact&theme=algolia))](https://github.com/anuraghazra/github-readme-stats)
 
