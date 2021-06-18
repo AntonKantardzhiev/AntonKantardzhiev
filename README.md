@@ -20,7 +20,7 @@
   <li>learning Java.</li>
   </ul>
 - 📫 How to reach me?</br>
- You can always contact me via the mail or LinkedIn:<br/>
+ You can always contact me via the mail or LinkedIn:
 <a target="_blank" href="mailto:kantardjiev88@gmail.com">
 <img align="left" alt="Gmail" width="35px" src="img/gmail.png" />
 </a>
