@@ -12,10 +12,10 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently **looking for job opportunity as Web Developer**
+- 🔭 I’m currently **looking for nice projects to learn and contribute**
 - 🌱 I’m currently:
   <ul>
-  <li>finishing the Web Development bootcamp at BeCode - Antwerp.</li>
+  <li>doing an IBO at BREEX as Backend Web Developer - Lokeren.</li>
   <li>finishing a Google IT Support Professional Certification.</li>
   <li>learning Java.</li>
   </ul>
