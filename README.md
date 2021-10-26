@@ -15,7 +15,7 @@
 - 🔭 I’m currently **looking for nice projects to learn and contribute**
 - 🌱 I’m currently:
   <ul>
-  <li>doing an IBO at BREEX as Backend Web Developer - Lokeren.</li>
+  <li>working as a Backend Web Developer.</li>
   <li>finishing a Google IT Support Professional Certification.</li>
   <li>learning Java.</li>
   </ul>
